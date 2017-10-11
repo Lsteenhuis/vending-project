@@ -1,0 +1,21 @@
+{
+  "name": "api-dir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/body-parser": "^1.16.5",
+    "@types/express": "^4.0.37",
+    "@types/mongoose": "^4.7.23",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongod": "^2.0.0",
+    "mongoose": "^4.12.1",
+    "n-installed": "^2.0.0"
+  }
+}
